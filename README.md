@@ -114,6 +114,3 @@ The implemented algorithms simulate the scheduling behavior of **MLQ** and **MLF
 
 This project is for educational purposes and is not distributed under any specific license.
 
----
-
-This README should be placed in your project folder to provide users with clear guidance on how to use and understand the project!
